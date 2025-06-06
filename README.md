@@ -40,7 +40,8 @@ This repository contains a complete microservices-based application built using 
 
 ---
 
-## 📂 Folder Structure
+## 
+**📂 Folder Structure
 
 ├── api_gateway/
 ├── comment/
